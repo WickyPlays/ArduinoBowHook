@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArduinoBowHook:jar">
+    <output-path>$PROJECT_DIR$/../../../../Games/Minecraft/Paper 1.20.6/plugins</output-path>
+    <root id="archive" name="ArduinoBowHook.jar">
+      <element id="module-output" name="ArduinoBowHook" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/kurbatov/firmata4j/2.3.8/firmata4j-2.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scijava/native-lib-loader/2.5.0/native-lib-loader-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/java-native/jssc/2.9.6/jssc-2.9.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

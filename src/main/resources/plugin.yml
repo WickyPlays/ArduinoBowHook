@@ -1,0 +1,6 @@
+name: ArduinoBowHook
+version: '${project.version}'
+main: me.wickyplays.spigot.arduinobowhook.ArduinoBowHook
+api-version: '1.19'
+authors: [WickyPlays]
+description: Arduino Bow hook with LED
